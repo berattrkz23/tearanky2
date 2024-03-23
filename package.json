@@ -1,7 +1,7 @@
 {
   "name": "tearanky2",
   "version": "1.0.0",
-  "description": "This npm package provides functionalities for working with polynomials, including symbolic manipulation, equation solving, and graphical representation. And test for my tearank",
+  "description": "This npm package provides functionalities for working with polynomials, including symbolic manipulation, equation solving, and graphical representation.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,23 +15,10 @@
   },
   "homepage": "https://github.com/berattrkz23/tearanky2#readme",
   "keywords": [
-    "This",
-    "npm",
-    "package",
-    "provides",
-    "functionalities",
-    "for",
-    "working",
-    "with",
     "polynomials",
-    "including",
-    "symbolic",
-    "manipulation",
-    "equation",
-    "solving",
-    "and",
-    "graphical",
-    "representation"
+    "symbolic manipulation",
+    "equation solving",
+    "graphical representation"
   ],
   "author": "berat turkoz",
   "license": "ISC",
@@ -40,9 +27,9 @@
     "data-visualizer-csv": "^1.4.1",
     "form-valid-js": "^1.0.7",
     "imagemanipulatorly": "^1.0.3",
-    "macish23-fortea":"^1.0.7"
+    "macish23-fortea": "^1.0.7"
+  },
   "devDependencies": {
-     "macish23-fortea":"^1.0.7"
-  }
+    "macish23-fortea": "^1.0.7"
   }
 }
